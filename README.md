@@ -6,5 +6,5 @@ then extra requests are paid for (check https://developers.google.com/maps/docum
 
 Sample data has been given with 1227 School locations and 14 providers. If the program runs and does not give a valid provider it may be because some locations are overseas.
 
-For anyone attempting to adapt this solution for their own needs you will need to update a few of the global variables as their is no UI component to this program. If you encounter any difficulties or have any suggestions about this program please do not hesitate to ask.
+For anyone attempting to adapt this solution for their own needs you will need to update a few of the global variables as their is no UI component to this program. If you encounter any difficulties or have any suggestions about this program please do not hesitate to message me.
 
