@@ -4,7 +4,7 @@ This program reads from 2 .csv files labelled as DataLocations and Provider and 
 Important to note about this program is that it requires your own key for the API and if the number of requests are over the limit of free use 
 then extra requests are paid for (check https://developers.google.com/maps/documentation/javascript/get-api-key).
 
-Sample data has been given with 1227 School locations and 14 providers. If the program runs and does not give a valid provider it may be because some locations are overseas.
+Sample data has been given with 1227 School locations and 14 providers. If the program runs and does not give a valid provider it may be because some locations are overseas. This program was something that I completed in 2018 with Visual Studio 2017.
 
 For anyone attempting to adapt this solution for their own needs you will need to update a few of the global variables as their is no UI component to this program. If you encounter any difficulties or have any suggestions about this program please do not hesitate to message me.
 
