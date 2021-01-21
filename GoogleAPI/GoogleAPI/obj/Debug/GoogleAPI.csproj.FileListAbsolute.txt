@@ -11,3 +11,7 @@ C:\Users\User\source\repos\DistanceCalculator\GoogleAPI\GoogleAPI\obj\Debug\Goog
 C:\Users\User\source\repos\DistanceCalculator\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\DistanceCalculator\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.exe
 C:\Users\User\source\repos\DistanceCalculator\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.pdb
+C:\Users\User\source\repos\SRF\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SRF\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SRF\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.exe
+C:\Users\User\source\repos\SRF\GoogleAPI\GoogleAPI\obj\Debug\GoogleAPI.pdb
